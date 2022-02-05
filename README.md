@@ -1,0 +1,40 @@
+# Hero Section Animation with GSAP
+
+## Project Overview
+
+This is the hero section of an Autumn Boots Collection landing page.
+
+Each part of the section animates beautifully, both providing a nice experience and drawing the attention to the Call-To-Action button.
+
+## Code Structure
+
+For this project I used HTML, CSS and Javascript, with the help of GSAP.
+
+### HTML
+
+Correct use of semantic HTML5 elements, that signify the role that each piece has on the page.
+
+### CSS
+
+Organised CSS rules, without code repetition and well-placed media queries. The project is **responsive**.
+
+### Javascript
+
+Each step of setting up the animation is carefully explained with comments.
+
+## View Project
+
+1. View the live project by clicking [here]().
+
+2. Clone the repository
+
+```
+git clone https://github.com/Kyriakos-Bekas/boots-website-hero-section.git
+```
+
+3. Download the source code: _Code_ >> _Download ZIP_
+
+### Shameless Promotion
+
+If you enjoyed this project, consider leaving me a star :star:
+Thanks!
