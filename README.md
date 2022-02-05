@@ -28,7 +28,7 @@ Each step of setting up the animation is carefully explained with comments.
 
 2. Clone the repository
 
-```
+```bash
 git clone https://github.com/Kyriakos-Bekas/boots-website-hero-section.git
 ```
 
