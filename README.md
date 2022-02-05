@@ -24,7 +24,7 @@ Each step of setting up the animation is carefully explained with comments.
 
 ## View Project
 
-1. View the live project by clicking [here]().
+1. View the live project by clicking [here](https://boots-website-hero-section.netlify.app/).
 
 2. Clone the repository
 
