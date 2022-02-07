@@ -34,7 +34,9 @@ git clone https://github.com/Kyriakos-Bekas/boots-website-hero-section.git
 
 3. Download the source code: _Code_ >> _Download ZIP_
 
-### Shameless Promotion
+![Download Code as ZIP Visual Instructions](https://user-images.githubusercontent.com/74660002/152875739-5b6a15f1-afcd-49b7-b0d9-2d37ce6df56c.png)
+
+### Shameless Self Promotion
 
 If you enjoyed this project, consider leaving me a star :star:
 Thanks!
